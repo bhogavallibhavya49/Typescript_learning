@@ -13,6 +13,7 @@ const car1 = new Car("Toyota");
 car1.showBrand();
 
 
+
 // -----------------------------------
 // MEDIUM LEVEL: Multiple Attributes & Methods
 // -----------------------------------
